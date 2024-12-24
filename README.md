@@ -9,7 +9,7 @@ To write a python program to implement multivariate linear regression and predic
 
 
 
-### Step2 : Use pd.read_csv() to read the dataset from the specified file path.Ensure the dataset contains the required columns: Volume, Weight, and CO2.
+### Step2 : Use pd.read_csv() to read the dataset from the specified file path.Ensure the dataset contains the required columns:      Volume, Weight, and CO2.
 
 
 ### Step3 : Initialize a linear regression model using linear_model.LinearRegression().Fit the model with the training data (X and Y) using the fit() method.
@@ -46,10 +46,6 @@ print("CO2 required is",regression.predict([[100,929]]))
 
 ```
 ## Output:
-
-### Insert your output
-
-<br>
-
+![output](Screenshot%202024-12-23%20144953.png)
 ## Result
 Thus the multivariate linear regression is implemented and predicted the output using python program.
